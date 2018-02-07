@@ -1,3 +1,3 @@
 # Solor-System
-sakdjasd
-sadk;jasd
+
+Solar Lab 1 is Lab task Number 1
